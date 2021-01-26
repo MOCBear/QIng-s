@@ -1,2 +1,2 @@
 # QIng-s
-Typecho主题
+一款Typecho主题
